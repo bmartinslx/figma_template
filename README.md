@@ -1,3 +1,3 @@
 # figma_template
 Website created using Figma Web Application designer
-![figma-template](/figma-template/figma-website.png)
+![figma_course](figma-template/figma-website.png)
